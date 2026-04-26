@@ -126,10 +126,9 @@ Predicted Action Label
 The key idea behind Transfer Learning is reusing the feature extraction layers of a model already trained on millions of images (ImageNet), then training only the final classification layers on the action dataset — saving significant compute time while achieving high accuracy.
 
 ---
+## 📊 Confusion Matrix
 
-## 📈 Results
-plt.savefig('confusion_matrix.png', dpi=150, bbox_inches='tight')
-
+![Confusion Matrix](assets/confusion_matrix.png)
 ---
 
 ## 🔮 Future Improvements
