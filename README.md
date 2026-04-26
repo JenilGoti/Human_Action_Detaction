@@ -128,7 +128,7 @@ The key idea behind Transfer Learning is reusing the feature extraction layers o
 ---
 
 ## 📈 Results
-
+plt.savefig('confusion_matrix.png', dpi=150, bbox_inches='tight')
 
 ---
 
